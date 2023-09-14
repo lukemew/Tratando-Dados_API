@@ -1,2 +1,2 @@
-# js-consumindo-dados-api
-Repositório do treinamento "JavaScript: Consumindo e tratando dados de uma API" da Alura Cursos Online.
+# Tratando-Dados_API
+Repositório do projeto de JavaScript no qual trata dados da API do ViaCep para preenchimento automático de um formulário
